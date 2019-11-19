@@ -17,3 +17,10 @@ https://semantic-ui.com/modules/modal.html
 https://obsproject.com/
 
 https://www.npmjs.com/package/flv.js
+
+https://jsonplaceholder.typicode.com/
+
+https://jsonplaceholder.typicode.com/posts
+
+https://jsonplaceholder.typicode.com/todos
+
